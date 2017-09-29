@@ -1,10 +1,10 @@
 package keywrap_test
 
 import (
+  keywrap "github.com/NickBall/go-aes-key-wrap"
 	"crypto/aes"
 	"encoding/hex"
 	"github.com/stretchr/testify/assert"
-  keywrap "github.com/nickball/go-aes-key-wrap"
 	"testing"
 )
 
