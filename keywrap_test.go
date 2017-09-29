@@ -4,7 +4,7 @@ import (
 	"crypto/aes"
 	"encoding/hex"
 	"github.com/stretchr/testify/assert"
-	"gitlab.wolfninja.pw/filmcollect/movies/cmd/keywrap"
+  keywrap "github.com/nickball/go-aes-key-wrap"
 	"testing"
 )
 
